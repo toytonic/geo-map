@@ -65,7 +65,7 @@
     "typescript": "3.2.1",
     "webpack": "4.27.0",
     "webpack-cli": "3.1.2",
-    "webpack-dev-server": "3.1.10"
+    "webpack-dev-server": "3.1.14"
   },
   "dependencies": {
     "@types/googlemaps": "3.30.16",
